@@ -2690,6 +2690,43 @@
       "totalHumanLines": 0,
       "totalUncertainLines": 0,
       "lastUpdated": 1780146946837
+    },
+    "c:\\Users\\ASUS\\Desktop\\helloworld-first\\.git\\COMMIT_EDITMSG": {
+      "filePath": "c:\\Users\\ASUS\\Desktop\\helloworld-first\\.git\\COMMIT_EDITMSG",
+      "lines": [
+        {
+          "lineNumber": 0,
+          "source": "ai",
+          "confidence": 0.75,
+          "originalSource": "human",
+          "editHistory": [
+            {
+              "timestamp": 1780147204262,
+              "changeType": "replace",
+              "source": "ai",
+              "confidence": 0.75,
+              "characterDelta": -334
+            }
+          ],
+          "lastModified": 1780147204262,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 1,
+          "source": "ai",
+          "confidence": 0.75,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780147204262,
+          "isModified": false,
+          "isGitChanged": true
+        }
+      ],
+      "totalAILines": 2,
+      "totalHumanLines": 0,
+      "totalUncertainLines": 0,
+      "lastUpdated": 1780147204262
     }
   }
 }
