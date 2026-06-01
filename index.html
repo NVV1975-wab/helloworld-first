@@ -9,21 +9,25 @@
 </head>
 
 <body>
-    <header>
-        <h1>Добро пожаловать на мой сайт мини-игр</h1>
-        <a href="#games" class="start-button">Поехали!</a>
-    </header>
+    <header class="header">
+        <div class="header__content">
+            <h1 class="header__title">Добро пожаловать&nbsp; на мой сайт мини-игр</h1>
+            <p class="header__description">Тебе предстоит пройти несколько увлекательных игр.&nbsp;
+                Если готов, нажимай «Поехали!» и приступай.</p>
+            <a href="#games" class="header__button start-button">Поехали!</a>
+        </div>
 
-    <nav>
-        <ul>
-            <li><a href="#quiz">ВИКТОРИНА</a></li>
-            <li><a href="#guess">УГАДАЙ ЧИСЛО</a></li>
-            <li><a href="#reverse">ПЕРЕВЕРНИ ТЕКСТ</a></li>
-            <li><a href="#rock-paper-scissors">КАМЕНЬ, НОЖНИЦЫ, БУМАГА</a></li>
-            <li><a href="#simple-arithmetic">ПРОСТАЯ АРИФМЕТИКА</a></li>
-            <li><a href="#random-color">ГЕНЕРАТОР СЛУЧАЙНЫХ ЦВЕТОВ</a></li>
-        </ul>
-    </nav>
+<nav class="nav">
+  <ul class="nav__list">
+    <li class="nav__item"><a href="#quiz" class="nav__link">ВИКТОРИНА</a></li>
+    <li class="nav__item"><a href="#guess" class="nav__link">УГАДАЙ ЧИСЛО</a></li>
+    <li class="nav__item"><a href="#reverse" class="nav__link">ПЕРЕВЕРНИ ТЕКСТ</a></li>
+    <li class="nav__item"><a href="#rock-paper-scissors" class="nav__link">КАМЕНЬ, НОЖНИЦЫ, БУМАГА</a></li>
+    <li class="nav__item"><a href="#simple-arithmetic" class="nav__link">ПРОСТАЯ АРИФМЕТИКА</a></li>
+    <li class="nav__item"><a href="#random-color" class="nav__link">ГЕНЕРАТОР СЛУЧАЙНЫХ ЦВЕТОВ</a></li>
+  </ul>
+</nav>
+</header>
     <h2>Об играх</h2>
     <main id="games">
         <div class="game-tile" id="guess">
