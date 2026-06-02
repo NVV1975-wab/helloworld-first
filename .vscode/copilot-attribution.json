@@ -55,7 +55,7 @@
           ],
           "lastModified": 1780146816161,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 1,
@@ -123,7 +123,7 @@
           ],
           "lastModified": 1780147028644,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 11,
@@ -259,7 +259,7 @@
           ],
           "lastModified": 1780147048020,
           "isModified": true,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 14,
@@ -1025,86 +1025,297 @@
         },
         {
           "lineNumber": 19,
-          "source": "ai",
-          "confidence": 1,
+          "source": "human",
+          "confidence": 0.98,
           "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
+          "editHistory": [
+            {
+              "timestamp": 1780326701163,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 6
+            },
+            {
+              "timestamp": 1780330058155,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330058594,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330060413,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330061458,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330064002,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330064300,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330079001,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330079220,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330081562,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330082192,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330083766,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330084889,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330090373,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330090750,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330091905,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330092178,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330094603,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330094807,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330097440,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330097707,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330099947,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330100185,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330101997,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330102254,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330179429,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330181260,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330182864,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330183080,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330184644,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330186751,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330188529,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330188752,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 4
+            },
+            {
+              "timestamp": 1780330192320,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330192731,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330194184,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330207644,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330207958,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330208392,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330487547,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 3
+            }
+          ],
+          "lastModified": 1780330487547,
+          "isModified": true,
+          "isGitChanged": true
         },
         {
-          "lineNumber": 20,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 21,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 22,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 23,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 24,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 25,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 26,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 27,
+          "lineNumber": 28,
           "source": "human",
           "confidence": 0.95,
           "originalSource": "ai",
@@ -1115,14 +1326,201 @@
               "source": "human",
               "confidence": 0.95,
               "characterDelta": 2
+            },
+            {
+              "timestamp": 1780326718686,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": 2
             }
           ],
-          "lastModified": 1780317155228,
+          "lastModified": 1780326718686,
           "isModified": true,
           "isGitChanged": true
         },
         {
-          "lineNumber": 28,
+          "lineNumber": 27,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 26,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 25,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 24,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 23,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 22,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 21,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 20,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326702516,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.8,
+              "characterDelta": 31
+            },
+            {
+              "timestamp": 1780326702614,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 6
+            },
+            {
+              "timestamp": 1780326715837,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": -6
+            },
+            {
+              "timestamp": 1780326720647,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 4
+            },
+            {
+              "timestamp": 1780326720647,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 4
+            }
+          ],
+          "lastModified": 1780326720647,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 32,
+          "source": "ai",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780327076554,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": -9
+            },
+            {
+              "timestamp": 1780327207248,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 9
+            },
+            {
+              "timestamp": 1780329902919,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 6
+            }
+          ],
+          "lastModified": 1780329902919,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 31,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780330199301,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330199507,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330201188,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            }
+          ],
+          "lastModified": 1780330201188,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 30,
           "source": "human",
           "confidence": 0.95,
           "originalSource": "human",
@@ -1148,876 +1546,379 @@
         },
         {
           "lineNumber": 29,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "human",
+          "editHistory": [
+            {
+              "timestamp": 1780326720646,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 12
+            }
+          ],
+          "lastModified": 1780326720646,
           "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 30,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 31,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 32,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 33,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
+          "isGitChanged": true
         },
         {
           "lineNumber": 34,
-          "source": "ai",
-          "confidence": 1,
+          "source": "human",
+          "confidence": 0.98,
           "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
+          "editHistory": [
+            {
+              "timestamp": 1780327137779,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780327139018,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780327141922,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780327142876,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780327144713,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780327204013,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780327205189,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780327205797,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780327206296,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780327206770,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329930877,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": 2
+            },
+            {
+              "timestamp": 1780330395269,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 10
+            },
+            {
+              "timestamp": 1780330646830,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330647290,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330648786,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330649747,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330651112,
+              "changeType": "replace",
+              "source": "human",
+              "confidence": 0,
+              "characterDelta": 7
+            },
+            {
+              "timestamp": 1780330674553,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 14
+            }
+          ],
+          "lastModified": 1780330674553,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 33,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780329905938,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329910246,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329911921,
+              "changeType": "replace",
+              "source": "human",
+              "confidence": 0,
+              "characterDelta": 2
+            },
+            {
+              "timestamp": 1780329913950,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329914304,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329916269,
+              "changeType": "replace",
+              "source": "human",
+              "confidence": 0,
+              "characterDelta": 7
+            },
+            {
+              "timestamp": 1780329919939,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329919992,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 6
+            },
+            {
+              "timestamp": 1780329929057,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": -6
+            },
+            {
+              "timestamp": 1780330643106,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 7
+            }
+          ],
+          "lastModified": 1780330643106,
+          "isModified": true,
+          "isGitChanged": true
         },
         {
           "lineNumber": 35,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 36,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 37,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 38,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 39,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 40,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 41,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 42,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 43,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 44,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 45,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 46,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 47,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 48,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 49,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 50,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 51,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 52,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 53,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 54,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 55,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 56,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 57,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 58,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 59,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 60,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 61,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 62,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 63,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 64,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 65,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 66,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 67,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 68,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 69,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 70,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 71,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 72,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 73,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 74,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 75,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 76,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 77,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 78,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 79,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 80,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 81,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 82,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 83,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 84,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 85,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 86,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 87,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 88,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 89,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 90,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 91,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 92,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 93,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 94,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 95,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 96,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 97,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 98,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 99,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 100,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 101,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 102,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 103,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 104,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 105,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 106,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 107,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 108,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 109,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 110,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 111,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 112,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 113,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 114,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
-        },
-        {
-          "lineNumber": 115,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146816161,
-          "isModified": false,
-          "isGitChanged": false
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780330426606,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330428252,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330429405,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330429867,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330431584,
+              "changeType": "replace",
+              "source": "human",
+              "confidence": 0,
+              "characterDelta": 7
+            },
+            {
+              "timestamp": 1780330434480,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330434618,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 4
+            },
+            {
+              "timestamp": 1780330437285,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330438912,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330467779,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.8999999999999999,
+              "characterDelta": 133
+            },
+            {
+              "timestamp": 1780330478807,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330501233,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330501567,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330503779,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330504917,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780330506126,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330506707,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330693085,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 13
+            }
+          ],
+          "lastModified": 1780330693085,
+          "isModified": true,
+          "isGitChanged": true
         },
         {
-          "lineNumber": 116,
+          "lineNumber": 130,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2027,7 +1928,7 @@
           "isGitChanged": false
         },
         {
-          "lineNumber": 117,
+          "lineNumber": 129,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2037,7 +1938,7 @@
           "isGitChanged": false
         },
         {
-          "lineNumber": 118,
+          "lineNumber": 128,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2047,7 +1948,7 @@
           "isGitChanged": false
         },
         {
-          "lineNumber": 119,
+          "lineNumber": 127,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2057,7 +1958,7 @@
           "isGitChanged": false
         },
         {
-          "lineNumber": 120,
+          "lineNumber": 126,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2067,7 +1968,7 @@
           "isGitChanged": false
         },
         {
-          "lineNumber": 121,
+          "lineNumber": 125,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2077,7 +1978,7 @@
           "isGitChanged": false
         },
         {
-          "lineNumber": 122,
+          "lineNumber": 124,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2097,7 +1998,7 @@
           "isGitChanged": false
         },
         {
-          "lineNumber": 124,
+          "lineNumber": 122,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
@@ -2105,12 +2006,888 @@
           "lastModified": 1780146816161,
           "isModified": false,
           "isGitChanged": false
+        },
+        {
+          "lineNumber": 121,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 120,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 119,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 118,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 117,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 116,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 115,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 114,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 113,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 112,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 111,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 110,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 109,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 108,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 107,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 106,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 105,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 104,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 103,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 102,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 101,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 100,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 99,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 98,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 97,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 96,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 95,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 94,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 93,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 92,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 91,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 90,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 89,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 88,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 87,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 86,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 85,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 84,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 83,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 82,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 81,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 80,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 79,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 78,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 77,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 76,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 75,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 74,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 73,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 72,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 71,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 70,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 69,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 68,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 67,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 66,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 65,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 64,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 63,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 62,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 61,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 60,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 59,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 58,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 57,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 56,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 55,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 54,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 53,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 52,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 51,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 50,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 49,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 48,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 47,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 46,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 45,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 44,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 43,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 42,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 41,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 40,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 39,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 38,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146816161,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 37,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "human",
+          "editHistory": [
+            {
+              "timestamp": 1780329934260,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 4
+            }
+          ],
+          "lastModified": 1780329934260,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 36,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780330487547,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 12
+            }
+          ],
+          "lastModified": 1780330487547,
+          "isModified": true,
+          "isGitChanged": true
         }
       ],
-      "totalAILines": 117,
-      "totalHumanLines": 8,
+      "totalAILines": 114,
+      "totalHumanLines": 17,
       "totalUncertainLines": 0,
-      "lastUpdated": 1780317406867
+      "lastUpdated": 1780330693085
     },
     "c:\\Users\\ASUS\\Desktop\\helloworld-first\\style.css": {
       "filePath": "c:\\Users\\ASUS\\Desktop\\helloworld-first\\style.css",
@@ -2131,7 +2908,7 @@
           ],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 1,
@@ -2141,16 +2918,87 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 2,
-          "source": "ai",
-          "confidence": 1,
+          "source": "human",
+          "confidence": 0.98,
           "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
+          "editHistory": [
+            {
+              "timestamp": 1780329976852,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329977116,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329980931,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780329981165,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780329983364,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329984721,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780329987074,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329988421,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780329989603,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780329990587,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            }
+          ],
+          "lastModified": 1780329990587,
+          "isModified": true,
           "isGitChanged": true
         },
         {
@@ -2161,7 +3009,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 4,
@@ -2171,7 +3019,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 5,
@@ -2221,7 +3069,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 10,
@@ -2231,7 +3079,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 11,
@@ -2312,7 +3160,7 @@
           ],
           "lastModified": 1780313822357,
           "isModified": true,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 33,
@@ -2382,7 +3230,7 @@
           "editHistory": [],
           "lastModified": 1780312945571,
           "isModified": false,
-          "isGitChanged": false
+          "isGitChanged": true
         },
         {
           "lineNumber": 31,
@@ -2625,7 +3473,7 @@
           ],
           "lastModified": 1780310712055,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 24,
@@ -2681,17 +3529,67 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 22,
           "source": "human",
-          "confidence": 0.95,
+          "confidence": 0.98,
           "originalSource": "human",
-          "editHistory": [],
-          "lastModified": 1780313822357,
-          "isModified": false,
-          "isGitChanged": false
+          "editHistory": [
+            {
+              "timestamp": 1780330332959,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330335498,
+              "changeType": "replace",
+              "source": "ai",
+              "confidence": 0.55,
+              "characterDelta": 15
+            },
+            {
+              "timestamp": 1780330338678,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330338887,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330339381,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330340428,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330340918,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            }
+          ],
+          "lastModified": 1780330340918,
+          "isModified": true,
+          "isGitChanged": true
         },
         {
           "lineNumber": 21,
@@ -2747,7 +3645,7 @@
           "editHistory": [],
           "lastModified": 1780312881386,
           "isModified": false,
-          "isGitChanged": false
+          "isGitChanged": true
         },
         {
           "lineNumber": 19,
@@ -2996,7 +3894,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 14,
@@ -3132,7 +4030,7 @@
           "editHistory": [],
           "lastModified": 1780313822357,
           "isModified": false,
-          "isGitChanged": false
+          "isGitChanged": true
         },
         {
           "lineNumber": 35,
@@ -3231,7 +4129,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 49,
@@ -3241,7 +4139,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 48,
@@ -3261,7 +4159,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 46,
@@ -3364,7 +4262,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 40,
@@ -3374,7 +4272,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 39,
@@ -3416,7 +4314,7 @@
           ],
           "lastModified": 1780315609203,
           "isModified": true,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 37,
@@ -3426,7 +4324,7 @@
           "editHistory": [],
           "lastModified": 1780313822357,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 36,
@@ -3454,909 +4352,20 @@
           "isGitChanged": true
         },
         {
-          "lineNumber": 151,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 150,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 149,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 148,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 147,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 146,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 145,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 144,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 143,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 142,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 141,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 140,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 139,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 138,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 137,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 136,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 135,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 134,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 133,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 132,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 131,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 130,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 129,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 128,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 127,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 126,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 125,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 124,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 123,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 122,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 121,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 120,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 119,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 118,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 117,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 116,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 115,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 114,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 113,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 112,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 111,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 110,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 109,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 108,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 107,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 106,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 105,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 104,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 103,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 102,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 101,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 100,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 99,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 98,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 97,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 96,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 95,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 94,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 93,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 92,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 91,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 90,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 89,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 88,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 87,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 86,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 85,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 84,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 83,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 82,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 81,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 80,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 79,
-          "source": "human",
-          "confidence": 0.98,
-          "originalSource": "ai",
-          "editHistory": [
-            {
-              "timestamp": 1780317727049,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317727288,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317727535,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317732145,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            }
-          ],
-          "lastModified": 1780317732145,
-          "isModified": true,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 78,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 77,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 76,
-          "source": "human",
-          "confidence": 0.98,
-          "originalSource": "ai",
-          "editHistory": [
-            {
-              "timestamp": 1780317975143,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317976946,
-              "changeType": "replace",
-              "source": "human",
-              "confidence": 0,
-              "characterDelta": 11
-            },
-            {
-              "timestamp": 1780317979471,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317979679,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317980267,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317980701,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            }
-          ],
-          "lastModified": 1780317980701,
-          "isModified": true,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 75,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 74,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 73,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 72,
-          "source": "human",
-          "confidence": 0.98,
-          "originalSource": "ai",
-          "editHistory": [
-            {
-              "timestamp": 1780317466408,
-              "changeType": "insert",
-              "source": "human",
-              "confidence": 0.98,
-              "characterDelta": 1
-            },
-            {
-              "timestamp": 1780317476385,
-              "changeType": "insert",
-              "source": "uncertain",
-              "confidence": 0.3,
-              "characterDelta": 9
-            }
-          ],
-          "lastModified": 1780317476385,
-          "isModified": true,
-          "isGitChanged": true
-        },
-        {
-          "lineNumber": 71,
-          "source": "ai",
-          "confidence": 1,
-          "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
-          "isModified": false,
-          "isGitChanged": true
-        },
-        {
           "lineNumber": 70,
           "source": "ai",
           "confidence": 1,
           "originalSource": "ai",
-          "editHistory": [],
-          "lastModified": 1780146946837,
+          "editHistory": [
+            {
+              "timestamp": 1780326775758,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 6
+            }
+          ],
+          "lastModified": 1780326775758,
           "isModified": false,
           "isGitChanged": true
         },
@@ -4368,7 +4377,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 68,
@@ -4378,7 +4387,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 67,
@@ -4427,7 +4436,7 @@
           ],
           "lastModified": 1780317451747,
           "isModified": true,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 65,
@@ -4437,7 +4446,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 64,
@@ -4521,7 +4530,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 62,
@@ -4611,7 +4620,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 58,
@@ -4621,7 +4630,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 57,
@@ -4631,7 +4640,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 56,
@@ -4661,7 +4670,7 @@
           "editHistory": [],
           "lastModified": 1780146946837,
           "isModified": false,
-          "isGitChanged": true
+          "isGitChanged": false
         },
         {
           "lineNumber": 52,
@@ -4725,12 +4734,1597 @@
           "lastModified": 1780316627684,
           "isModified": false,
           "isGitChanged": true
+        },
+        {
+          "lineNumber": 71,
+          "source": "human",
+          "confidence": 0.9,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326777122,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.8999999999999999,
+              "characterDelta": 178
+            },
+            {
+              "timestamp": 1780326782543,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -2
+            }
+          ],
+          "lastModified": 1780326782543,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 72,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326782543,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 73,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            }
+          ],
+          "lastModified": 1780326782543,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 74,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            },
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 3
+            },
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326782543,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 81,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 80,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 79,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780317466408,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317476385,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 9
+            },
+            {
+              "timestamp": 1780326786536,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326786767,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326786931,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326787078,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326787239,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326787377,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326787523,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326787666,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326787812,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326787948,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326788102,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326788276,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326788391,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326788556,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326788703,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326788850,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326788992,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326789153,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326789311,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326789457,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326789610,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326789763,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326789912,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326790065,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326790215,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326790372,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326790518,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326790665,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326790833,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326791230,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326791552,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326791856,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -1
+            },
+            {
+              "timestamp": 1780326887694,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.9,
+              "characterDelta": -4
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 78,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 77,
+          "source": "ai",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780326782543,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 76,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 5
+            },
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780326782543,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            }
+          ],
+          "lastModified": 1780326782543,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 75,
+          "source": "ai",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780326782543,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 111,
+          "source": "ai",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780329831764,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 19
+            },
+            {
+              "timestamp": 1780330723303,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780330736743,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 7
+            },
+            {
+              "timestamp": 1780330738116,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            },
+            {
+              "timestamp": 1780330738912,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 8
+            }
+          ],
+          "lastModified": 1780330738912,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 110,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 109,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 108,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 107,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 106,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 105,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 104,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 103,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 102,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 101,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 100,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 99,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 98,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 97,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 96,
+          "source": "ai",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780326887694,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 95,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.6,
+              "characterDelta": 5
+            },
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 94,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 93,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780326850734,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 92,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326850734,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326850734,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 91,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780326887694,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 90,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 3
+            },
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": 2
+            },
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 89,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 88,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326849545,
+              "changeType": "insert",
+              "source": "ai",
+              "confidence": 0.8999999999999999,
+              "characterDelta": 139
+            }
+          ],
+          "lastModified": 1780326849546,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 87,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780317727049,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317727288,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317727535,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317732145,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            }
+          ],
+          "lastModified": 1780317732145,
+          "isModified": true,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 86,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 85,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 84,
+          "source": "human",
+          "confidence": 0.98,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780317975143,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317976946,
+              "changeType": "replace",
+              "source": "human",
+              "confidence": 0,
+              "characterDelta": 11
+            },
+            {
+              "timestamp": 1780317979471,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317979679,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317980267,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780317980701,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": 1
+            },
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 83,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780326887694,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780326887694,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 82,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780326887694,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 112,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780330763085,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": -4
+            }
+          ],
+          "lastModified": 1780330763085,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 113,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780330763084,
+              "changeType": "insert",
+              "source": "human",
+              "confidence": 0.95,
+              "characterDelta": 2
+            }
+          ],
+          "lastModified": 1780330763085,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 115,
+          "source": "human",
+          "confidence": 0.6,
+          "originalSource": "ai",
+          "editHistory": [
+            {
+              "timestamp": 1780330779482,
+              "changeType": "insert",
+              "source": "uncertain",
+              "confidence": 0.3,
+              "characterDelta": 14
+            },
+            {
+              "timestamp": 1780330788993,
+              "changeType": "delete",
+              "source": "human",
+              "confidence": 0.98,
+              "characterDelta": -2
+            }
+          ],
+          "lastModified": 1780330788993,
+          "isModified": true,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 114,
+          "source": "human",
+          "confidence": 0.95,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780330763085,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 116,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 117,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 118,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 119,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 120,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 121,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 122,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 123,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 124,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 125,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 126,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 127,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 128,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 129,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 130,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 131,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 132,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 133,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 134,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 135,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 136,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 137,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 138,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 139,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 140,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 141,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 142,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 143,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 144,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 145,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 146,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 147,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 148,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 149,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 150,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 151,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 152,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 153,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 154,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 155,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 156,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 157,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 158,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 159,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 160,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 161,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 162,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 163,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 164,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 165,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 166,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 167,
+          "source": "ai",
+          "confidence": 1,
+          "originalSource": "ai",
+          "editHistory": [],
+          "lastModified": 1780146946837,
+          "isModified": false,
+          "isGitChanged": false
+        },
+        {
+          "lineNumber": 169,
+          "source": "human",
+          "confidence": 0,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780318791531,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 170,
+          "source": "human",
+          "confidence": 0,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780318791531,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 175,
+          "source": "human",
+          "confidence": 0,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780318791532,
+          "isModified": false,
+          "isGitChanged": true
+        },
+        {
+          "lineNumber": 176,
+          "source": "human",
+          "confidence": 0,
+          "originalSource": "human",
+          "editHistory": [],
+          "lastModified": 1780318791532,
+          "isModified": false,
+          "isGitChanged": true
         }
       ],
-      "totalAILines": 129,
-      "totalHumanLines": 23,
+      "totalAILines": 123,
+      "totalHumanLines": 49,
       "totalUncertainLines": 0,
-      "lastUpdated": 1780317980701
+      "lastUpdated": 1780330788993
     },
     "c:\\Users\\ASUS\\Desktop\\helloworld-first\\.git\\COMMIT_EDITMSG": {
       "filePath": "c:\\Users\\ASUS\\Desktop\\helloworld-first\\.git\\COMMIT_EDITMSG",

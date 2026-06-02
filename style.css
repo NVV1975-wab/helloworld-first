@@ -1,6 +1,6 @@
 /* Основные стили для всего документа */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Montserrat, Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #282c34;
@@ -18,8 +18,9 @@ body {
 }
 
 .header__content {
-    max-width: 760px;
+    max-width: 700px;
     margin-left: 120px;
+    margin-bottom: 156px;
 }
 
 .header__title {
@@ -49,9 +50,11 @@ body {
     border-radius: 60px;
     transition: background-color 0.3s;
 }
-.header__button{
+
+.header__button {
     font-size: 24px;
 }
+
 .start-button:hover {
     background-color: #555;
     /* Светло-серый при наведении */
@@ -69,10 +72,30 @@ body {
     list-style-type: none;
     padding: 0;
     text-align: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    white-space: nowrap;
+    /* Запрещаем перенос текста на новую строку */
+    overflow: hidden;
+
+}
+
+.nav__list::after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.nav__list-content {
+    display: inline-block;
+    animation: scrollLeft 20s linear infinite;
+    /* Анимация: 20 сек, линейно, бесконечно */
 }
 
 .nav__item {
-    display: inline;
+    display: inline-block;
+    /* Важно для inline-контейнера */
     margin: 0 15px;
     font-size: 30px;
 }
@@ -83,15 +106,16 @@ nav ul li a {
     font-weight: bold;
 }
 
-nav ul li a:hover {
-    text-decoration: underline;
-    /* Подчеркнутое при наведении */
-}
+
 
 /* Стили для секции игр */
-h2 {
-    text-align: center;
+.section{
+
+}
+
+.section__title {
     margin-top: 20px;
+    font-size: 64px;
 }
 
 main {
